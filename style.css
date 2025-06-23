@@ -134,7 +134,7 @@ body {
 /* Movie Container */
 .movie-container {
     width: 50%;
-    background-color:cornsilk;
+    background-color: cornsilk;
     padding: 20px;
     margin: 0px auto;
     display: flex;
@@ -159,7 +159,7 @@ body {
     width: 100%;
     padding: 0px 10px 0px 20px;
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
-    color:black;
+    color: black;
 }
 
 .details-header {
@@ -211,7 +211,7 @@ body {
     margin: 0px 5px 25px 5px;
     width: 28%;
     padding: 10px;
-    background-color:cornsilk;
+    background-color: cornsilk;
     border-radius: 4px;
 }
 
@@ -249,7 +249,7 @@ h1{
   color:greenyellow;
 }
 
-img :background{
+img : background{
     opacity: 0.5;
 
 }
