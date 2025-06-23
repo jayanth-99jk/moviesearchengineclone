@@ -4,9 +4,9 @@ Features
 
 Home Page
 
-if you search movies it displayes in the frontend of the home page 
+If you search for movies, it displays in the frontend of the home page 
 
-and there is a favourites buttion click on added to favourites list
+And there is a favourites button, click on add to favourites list
 
-by clicking on the poster you can get better information
-and you can remove from favourites
+By clicking on the poster, you can get better information
+And you can remove from favourites
