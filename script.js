@@ -29,7 +29,7 @@ async function singleMovie() {
         <img src=${data.Poster} alt="Movie Poster">
 
     </div>
-    <div class="movie-details">
+    <div class="movie-details ">
         <div class="details-header">
             <div class="dh-ls">
                 <h2>${data.Title}</h2>
